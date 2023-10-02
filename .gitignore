@@ -8,7 +8,41 @@ __pycache__/
 
 # Folders
 optimization/output/
-
+convolutional_neural_network/documents/
+convolutional_neural_network/W1A1/datasets/
+convolutional_neural_network/W1A1/images/
+convolutional_neural_network/W1A2/datasets/
+convolutional_neural_network/W1A2/images/
+convolutional_neural_network/W2A1/datasets/
+convolutional_neural_network/W2A1/images/
+neural_network/documents/
+neural_network/W2A1/images/
+neural_network/W2A2/images/
+optimization/documents/
+recurrent_neural_network/documents/
+recurrent_neural_network/W1A1/images/
+recurrent_neural_network/W1A2/images/
+recurrent_neural_network/W1A3/data/
+recurrent_neural_network/W1A3/images/
+recurrent_neural_network/W2A1/data/
+recurrent_neural_network/W2A1/images/
+recurrent_neural_network/W2A2/data/
+recurrent_neural_network/W2A2/images/
+recurrent_neural_network/W3A1/images/
+recurrent_neural_network/W3A2/audio_examples/
+recurrent_neural_network/W3A2/images/
+recurrent_neural_network/W3A2/raw_data/
+recurrent_neural_network/W4A3_UGL/data/
+recurrent_neural_network/W3A2/XY_train/X.npy
+recurrent_neural_network/W4A3_UGL/model/tensorflow/tf_model.h5
+recurrent_neural_network/W4A3_UGL/model/pytorch/pytorch_model.bin
+recurrent_neural_network/W4A4_UGL_POS/glove/glove.6B.100d.txt
+recurrent_neural_network/W4A2_UGL/model/tf_model.h5
+convolutional_neural_network/W2A1/models/resnet50.data
+convolutional_neural_network/W2A1/models/resnet50.data-00000-of-00001
+recurrent_neural_network/W3A2/XY_dev/X_dev.npy
+recurrent_neural_network/W4A3_UGL/results/
+structuring_machine_learning_project/
 
 # Distribution / packaging
 .Python
