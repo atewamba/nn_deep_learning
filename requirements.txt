@@ -1,0 +1,8 @@
+
+
+keras
+tensorflow
+ipykernel 
+tensorboard
+keras-tuner
+pytorch::pytorch torchvision torchaudio
